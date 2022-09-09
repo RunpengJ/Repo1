@@ -1,2 +1,5 @@
 # Repo1
-My first repository; test
+
+## Introduction
+
+This is my first repository, which also stores my notes of study.
